@@ -1,0 +1,238 @@
+#header{
+    
+    float:right;
+    width:100%;
+    background-color:whitesmoke;
+    
+}
+#header ul {
+    float:right;
+    margin-top: 10px;
+}
+#header a{
+    color:black;
+    font-size: 12px;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#header ul li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 30px;
+}
+#banner{
+    width:100%;
+    height: 500px;
+    
+    clear: both;
+
+}
+.head{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#div1 img{
+    margin-left: 30px ;
+    float: left;
+    
+}
+#div1 p{
+    text-align: left;
+    margin-left: 90px;
+    margin-top: 200px;
+
+
+}
+#div2 img{
+    float:left;
+    height: auto;
+    margin-left: 30px;
+}
+#div2 p{
+    text-align: left;
+    margin-left: 90px;
+    margin-top: 500px;
+}
+#div3 img{
+    float: right;
+}
+#div2 a{
+    color: red;
+    margin-left: 90px;
+    border-radius:2em;
+    border: 1px solid red;
+    text-align: center;
+    padding-left: 30px;
+    padding-right:30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size:13px ;
+}
+#div1{
+    color:black;
+    
+    width:30%;
+    height:600px;
+    float:left;
+    margin-right:2%;
+    
+}
+#div2{
+    color:black;
+    
+    width:35%;
+    height:600px;
+    float:left;
+    margin-left:10px;
+}
+#div3{
+    color:black;
+    
+    width:31%;
+    height:600px;
+    float:left;
+    margin-left:10px;
+}
+
+
+#intro{
+    
+    width:100%;
+    height:500px;
+}
+#article{
+    width: 60%;
+    height:420px;
+
+    margin-left:10px ;
+    margin: 0 auto;
+    clear: both;
+}
+#article  h4{
+    text-align: center;
+}
+#post{
+    width:20%;
+    height:225px;
+    
+    float: left;
+    margin-top: 10px;
+}
+#europe{
+    width: 20%;
+    height:193px;
+    
+    float: left;
+
+}
+
+#paragraph{
+    width:50%;
+    height:235px;
+    
+    float:left;
+}
+.head3{
+    text-align: center;
+}
+#post img{
+    width:80%;
+    margin-top: 55px;
+    
+}
+.max{
+    text-align: center;
+    
+}
+#nice{
+    
+    width:25%;
+    height: 1000px;
+    float: right;
+    border: 1px solid black;
+    height: 900px;
+
+}
+#europe img{
+    width: 80%;
+    margin-top: 16px;
+    
+}
+#paragraph1{
+    width:50%;
+    height:194px;
+    
+    float:left;
+}
+.pos{
+    text-align: center;
+    
+}
+#house{
+    width: 20%;
+    height:193px;
+    
+    float: left;
+
+}
+#house img{
+    width: 79.5%;
+    margin-top: 29px;
+}
+#paragraph1{
+    width:50%;
+    height:235px;
+    
+    float:left;
+}
+#paragraph2{
+    width:50%;
+    height:235px;
+    
+    float:left;
+}
+#paragraph3{
+    width:50%;
+    height:195px;
+
+    float:left;
+    
+     
+}
+#tri{
+    width: 20%;
+    height:190px;
+
+    float: left;
+
+}
+#tri img{
+    width: 79.5%;
+    margin-top: 29px;
+    
+}
+#nice img{
+    width:50%;
+    margin-left: 20px;
+}
+.head4{
+    text-align: center;
+}
+.para4{
+    padding-left: 10px;
+}
+.para5{
+    color: red;
+    margin-left: 90px;
+    border-radius: 7px;
+    border: 1px solid red;
+    text-align: center;
+    width: 50%;
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+}
+.para1{
+    border:1px solid black;
+    padding-left: 10px ;
+    width:70%
+}
